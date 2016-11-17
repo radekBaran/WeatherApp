@@ -8,8 +8,10 @@
    <center>
       <VBox prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">
          <children>
-            <TextField alignment="CENTER" text="Wpisz miasto" />
+            <Label alignment="CENTER" maxWidth="1.7976931348623157E308" prefHeight="15.0" text="Wybierz miasto" />
             <Separator maxWidth="1.7976931348623157E308" prefHeight="10.0" prefWidth="200.0" />
+            <TextField alignment="CENTER" text="wpisz lokalizację" />
+            <Separator maxWidth="1.7976931348623157E308" prefWidth="200.0" />
             <Button maxWidth="1.7976931348623157E308" mnemonicParsing="false" text="Wyszukaj" />
          </children>
       </VBox>
